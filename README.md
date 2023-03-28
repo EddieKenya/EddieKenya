@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/eddiemakhanu" target="blank"><img src="https://img.shields.io/twitter/follow/eddiemakhanu?logo=twitter&style=for-the-badge" alt="eddiemakhanu" /></a> </p>
 
-- 🔭 I’m currently working on **django social media application**
+- 🔭 I’m currently working on **Meme social media application**
 
-- 🌱 I’m currently learning **REACT courses**
+- 🌱 I’m currently learning **node js courses**
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **Django/React**
 
 - 📫 How to reach me **edwinmakhanu630@gmail.com**
 
